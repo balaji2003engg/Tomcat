@@ -26,21 +26,21 @@ mkdir tomcat
  
  6. Access to the install directory
  
-   chmod -R 755 /opt/tomcat/
+     chmod -R 755 /opt/tomcat/
  
  7.Change  owner and group  ownership of install directory to tomcat
 
-   chown -R tomcat:tomcat /opt/tomcat
+    chown -R tomcat:tomcat /opt/tomcat
  
  8. Copy the tomcat.service( available in the same repo) to the /etc/systemd/system
  
  9. Enable the tomcat service
  
-   systemctl enable tomcat
+    systemctl enable tomcat
  
  10. Reload the daemon
  
-   systemctl daemon-reload
+     systemctl daemon-reload
  
  11. Start the tomcat service
  
