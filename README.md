@@ -1,9 +1,9 @@
 # Tomcat installation on REDHAT
 1. Install the Open JDK
 
-sudo yum install java-1.8.0-openjdk
+   sudo yum install java-1.8.0-openjdk
 
-sudo yum install java-1.8.0-openjdk-devel
+   sudo yum install java-1.8.0-openjdk-devel
 
 2. Download the tomcat and create the tomcat directory  on /opt
    cd /opt
