@@ -6,11 +6,10 @@
    sudo yum install java-1.8.0-openjdk-devel
 
 2. Download the tomcat and create the tomcat directory  on /opt
-   cd /opt
+                  cd /opt
 
-   wget https://mirrors.sonic.net/apache/tomcat/tomcat-8/v8.5.59/bin/apache-tomcat-8.5.59.tar.gz
-
-mkdir tomcat
+               wget https://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.60/bin/apache-tomcat-8.5.60.tar.gz
+               mkdir tomcat
 
 3. Untar it on /opt/tomcat
 
