@@ -9,7 +9,7 @@
                   
                cd /opt
 
-               wget https://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.61/bin/apache-tomcat-8.5.61.tar.gz
+               wget https://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.69/bin/apache-tomcat-8.5.69.tar.gz
                mkdir tomcat
 
 3. Untar it on /opt/tomcat
