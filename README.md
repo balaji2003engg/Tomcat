@@ -14,7 +14,7 @@
 
 3. Untar it on /opt/tomcat
 
-         tar -xzvf /opt/apache-tomcat-8.5.61.tar.gz -C /opt/tomcat/ --strip-components=1
+         tar -xzvf /opt/apache-tomcat-8.5.69.tar.gz -C /opt/tomcat/ --strip-components=1
  
  4. Create the tomcat group
  
